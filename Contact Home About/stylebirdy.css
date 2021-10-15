@@ -1,0 +1,11 @@
+.text{
+    margin: 50px;
+    display: block;
+    padding: 20px;
+}
+.box{
+    float: right;
+}
+.image{
+    float: left;
+}

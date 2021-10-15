@@ -1,0 +1,55 @@
+selector:pseudo-class {
+    property:value
+}
+body{
+    background-color:black;
+    
+}
+ /* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+
+div:hover p {
+    display: block;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+ 
+p{
+    display: inline;
+    color:gray;
+    padding: 20px;
+  }
+  h1{
+      display: inline;
+      color:black;
+      background-color:plum;
+      font-style: italic;
+      font-size:x-large;
+  }
+  h2{
+      color: black;
+      text-align: center;
+      font-style: oblique;
+      background-color:indianred;
+  }
+  fieldset{
+      text-align: center;
+    width: 700px;
+    height: 200px;
+  }
+  
