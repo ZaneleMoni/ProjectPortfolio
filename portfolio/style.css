@@ -220,5 +220,7 @@ body {
   .right {
   left: 0%;
   }
-
+}
+body{
+    background-image: url(pictures/code4.jpg);
 }
